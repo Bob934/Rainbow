@@ -2,6 +2,7 @@ Rainbow
 
 Red
 Yellow
+Unicorn
 Green
 Blue
 Purple
@@ -10,5 +11,5 @@ Cyan
 
 These are the colours of the Rainbow.
 And the unicorn!
-Pony
-Rainbow Fish
+And a Pony!
+And a Rainbow Fish!
