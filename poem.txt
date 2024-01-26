@@ -6,7 +6,9 @@ Green
 Blue
 Purple
 Indigo
+Cyan
 
 These are the colours of the Rainbow.
 And the unicorn!
 Pony
+Rainbow Fish
