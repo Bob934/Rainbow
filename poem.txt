@@ -7,4 +7,5 @@ Blue
 Purple
 Yellow
 
-These are the colours of the Rainbow
+These are the colours of the Rainbow.
+And the unicorn!
